@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/my-name.svg" alt="Suman Kumar" />
+  <img src="https://github-readme-title.vercel.app/api/headings/gradient?title=Suman%20Kumar" alt="Suman Kumar github-readme-title" />
 </p>
 
 <p align="center">
