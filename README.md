@@ -8,9 +8,9 @@
 
 <h2>Hi there 👋</h2>
 
-I am currently pursuing a Master's in `Software Engineering` at `Cleveland State University` and bring with me `four years of experience` as a software engineer. Passionate about technology and innovation, I am keen on contributing to and evolving with a forward-thinking team.
-
-**_I'm actively seeking full-time opportunities in SDE/ML Engineer roles starting May 2024. Your reference is valuable to me!_**
+I'm a Software Engineer with 5+ years building production backend services, cloud-native infrastructure, and AI-powered platforms. MS in
+Software Engineering; published AI/ML researcher (IEEE). Skilled in architecting LLM-powered agentic tools, event-driven microservices,
+and internal developer platforms using Python, TypeScript, C#/.NET, and AWS.
 
 <a href="https://suman-k.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My_Website-blue?style=flat-square&logo=google-chrome&logoColor=fcb045&color=fcb045" />
